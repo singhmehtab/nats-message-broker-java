@@ -1,6 +1,6 @@
-# nats-server
+# nats-broker
 
-This is a java implementation of nats server which supports some of the functionality of the nats server.
+This is a java implementation of nats broker which supports some of the functionality of the nats server.
 
 Features Present
 1. Connect - This will be used as the first command when you connect to the server. It only supports one functionality, which is verbose.
